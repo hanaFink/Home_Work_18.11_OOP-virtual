@@ -1,0 +1,7 @@
+C:\Users\kemro\source\repos\Animals\Animals\bin\Debug\Animals.exe.config
+C:\Users\kemro\source\repos\Animals\Animals\bin\Debug\Animals.exe
+C:\Users\kemro\source\repos\Animals\Animals\bin\Debug\Animals.pdb
+C:\Users\kemro\source\repos\Animals\Animals\obj\Debug\Animals.csprojAssemblyReference.cache
+C:\Users\kemro\source\repos\Animals\Animals\obj\Debug\Animals.csproj.CoreCompileInputs.cache
+C:\Users\kemro\source\repos\Animals\Animals\obj\Debug\Animals.exe
+C:\Users\kemro\source\repos\Animals\Animals\obj\Debug\Animals.pdb
